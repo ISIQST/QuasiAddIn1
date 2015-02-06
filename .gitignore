@@ -1,0 +1,13 @@
+# git ignore file
+[Bb]in/
+[Oo]bj/
+[Rr]emoteDebug/
+!/lib
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
+*.xap
+*.vspcc
+*.vscc 
+*.vssscc
